@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI & Data Science Student | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunO6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="[https://komarev.com/ghpvc/?username=varunO6&label=Profile%20Views&color=0e75b6&style=flat](https://raw.githubusercontent.com/varunO6/varunO6/main/profile.jpg)" alt="Profile Views" />
 </p>
 
 ---
