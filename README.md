@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Varun Visoriya
 
-<h3 align="center">🚀 AI & Data Science Student | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 AI & Data Science Student | MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="./linkedin_profile-removebg-preview.png" width="220" alt="Varun Visoriya">
 </p>
 
 <h1 align="center">Hi 👋, I'm Varun Visoriya</h1>
-<h3 align="center">AI & Data Science Student | MERN Stack Developer</h3>
 
 
 ---
