@@ -3,7 +3,8 @@
 <h3 align="center">🚀 AI & Data Science Student | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varunO6/varunO6/main/linkedin_profile-removebg-preview.png" width="220" alt="Varun Visoriya">
+  <img src="https://raw.githubusercontent.com/varunO6/varunO6/main/linkedin_profile-removebg-preview%20(1).png">
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Varun Visoriya</h1>
