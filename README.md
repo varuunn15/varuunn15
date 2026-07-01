@@ -116,15 +116,15 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varuunn15&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varuunn15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varuunn15&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=varuunn15&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunn15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunn15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
