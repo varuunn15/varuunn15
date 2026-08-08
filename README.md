@@ -119,6 +119,7 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=varuunn15&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=varuunn15&theme=tokyonight" />
 </p>
