@@ -8,7 +8,6 @@
 
 <h1 align="center">Hi 👋, I'm Varun Visoriya</h1>
 
-
 ---
 
 ## 💫 About Me
