@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 💫 About Me
 
 I'm a **B.Tech student in Artificial Intelligence & Data Science** at **MITS-DU, Gwalior**.
