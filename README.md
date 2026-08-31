@@ -135,7 +135,6 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
     alt="GitHub Activity Graph"
   />
 </p>
----
 
 ## 🏆 Achievements
 
