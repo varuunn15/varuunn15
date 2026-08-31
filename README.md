@@ -136,15 +136,6 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://readme-olive-sigma.vercel.app/graph?username=varuunn15&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
 ## 🏆 Achievements
 
 - 🚀 Core Member @ Rocket Club: Ignition
