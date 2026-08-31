@@ -113,23 +113,37 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
 
 # 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=varuunn15&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=varuunn15&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Varun's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=varuunn15&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varuunn15&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=varuunn15&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunn15&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Varun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuunn15&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true)](https://github.com/varuunn15)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varuunn15&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 ## 🏆 Achievements
 
