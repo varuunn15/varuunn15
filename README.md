@@ -140,7 +140,7 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
 
 <p align="center">
   <img
-    src="https://YOUR_DEPLOYED_DOMAIN_NAME.vercel.app/graph?username=varuunn15&theme=tokyo-night&hide_border=true&area=true"
+    src="https://readme-olive-sigma.vercel.app/graph?username=varuunn15&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Graph"
   />
 </p>
