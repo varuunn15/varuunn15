@@ -129,7 +129,7 @@ Applications built with MongoDB, Express.js, React.js, and Node.js featuring aut
 
 ## 📈 Contribution Graph
 
-[![Varun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuunn15&theme=tokyo-night)](https://github.com/varuunn15)
+[![Varun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuunn15&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true)](https://github.com/varuunn15)
 
 ## 🏆 Achievements
 
