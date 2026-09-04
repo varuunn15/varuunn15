@@ -9,7 +9,6 @@
 <h1 align="center">Hi 👋, I'm Varun Visoriya</h1>
 
 ---
-
 ## 💫 About Me
 
 I'm a **B.Tech student in Artificial Intelligence & Data Science** at **MITS-DU, Gwalior**.
