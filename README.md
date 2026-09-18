@@ -1,156 +1,334 @@
-# Hi there 👋, I'm Varun Visoriya
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">🚀 AI & Data Science Student | MERN Stack Developer | Problem Solver</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hi+there!+I'm+Varun+Visoriya+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%7C+Builder+%7C+Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="./github profile.jpg" width="220" alt="Varun Visoriya">
 </p>
 
-<h1 align="center">Hi 👋, I'm Varun Visoriya</h1>
+<p align="center">
+  <a href="https://github.com/varuunn15">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/Varun%20Visoriya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/varuunn.15">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:VARUNVISORIYA@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
----
-## 💫 About Me
-
-I'm a **B.Tech student in Artificial Intelligence & Data Science** at **MITS-DU, Gwalior**.
-
-💻 Passionate about building scalable web applications and solving real-world problems through technology.
-
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **System Design, Docker, Kubernetes & AWS**
-- 💡 Exploring **Machine Learning & Artificial Intelligence**
-- ⚡ Strong in **React.js, JavaScript, Node.js & MongoDB**
-- 🏆 Hackathon Enthusiast
-- 🚀 Core Member @ Rocket Club: Ignition
-- 🎯 Goal: Become a Software Engineer building impactful products
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://instagram.com/varuunn.15">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/Varun%20Visoriya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:VARUNVISORIYA@GMAIL.COM">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varuunn15&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-# 💻 Tech Stack
+<!-- ===================== ABOUT ===================== -->
 
-### Languages
+## 👨‍💻 About Me
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+<p align="center">
+  <b>AI & Data Science Student • MERN Stack Developer • Problem Solver</b>
+</p>
 
-### Frontend
+I'm a **B.Tech student in Artificial Intelligence & Data Science at MITS-DU, Gwalior**, passionate about building practical software and learning how modern systems work from frontend to cloud infrastructure.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+I enjoy turning ideas into working products, solving programming problems, and exploring the intersection of **Web Development, Artificial Intelligence, Machine Learning, Cloud Computing, and DevOps**.
 
-### Backend
+### 🚀 Currently
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-
-### Data Science & ML
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-### Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal)
+* 🔭 Building and exploring **MERN Stack applications**
+* 🌱 Learning **System Design, Docker, Kubernetes & AWS**
+* 🤖 Exploring **Machine Learning & Artificial Intelligence**
+* 💻 Strengthening **DSA & problem-solving skills**
+* 🧩 Working toward building **production-ready software**
+* 🏆 Participating in **hackathons and technical activities**
+* 🚀 Core Member @ **Rocket Club: Ignition**
+* 🎯 Career Goal: **Become a Software Engineer building impactful products**
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================== QUICK SNAPSHOT ===================== -->
 
-### 🛒 E-Commerce Recommendation System
-Machine Learning-powered recommendation engine that suggests products based on user preferences and behavior.
+## ⚡ Developer Snapshot
 
-### 📊 Productivity Dashboard
-Responsive dashboard built with React.js and modern frontend technologies.
+<table align="center">
+<tr>
+<td align="center" width="220">
 
-### 🌐 Full Stack MERN Applications
-Applications built with MongoDB, Express.js, React.js, and Node.js featuring authentication and REST APIs.
+### 🎓 Education
+
+**B.Tech**
+Artificial Intelligence &
+Data Science
+**MITS-DU, Gwalior**
+
+</td>
+
+<td align="center" width="220">
+
+### 💻 Focus
+
+MERN Stack
+Machine Learning
+AI
+Cloud & DevOps
+
+</td>
+
+<td align="center" width="220">
+
+### 🧠 Learning
+
+DSA
+System Design
+Docker
+Kubernetes
+AWS
+
+</td>
+
+<td align="center" width="220">
+
+### 🚀 Community
+
+Rocket Club: Ignition
+Hackathons
+Technical Projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+<!-- ===================== TECH STACK ===================== -->
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts&theme=dark" alt="Programming Languages"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,vite&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+**React.js • Redux • React Router • React Query • React Hook Form • Tailwind CSS • SASS • Vite**
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Technologies"/>
+</p>
+
+**Node.js • Express.js • REST APIs • Authentication • Nodemon**
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/>
+</p>
+
+**MongoDB • MySQL**
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel&theme=dark" alt="Cloud and DevOps"/>
+</p>
+
+**AWS • Docker • Kubernetes • Vercel • Render**
+
+### 🤖 Data Science & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,windows&theme=dark" alt="Tools"/>
+</p>
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Driven Cloud Incident Detection & Remediation Platform
+
+> **AI-powered platform for cloud incident detection, root cause analysis, and automated remediation.**
+
+An advanced project focused on combining **Artificial Intelligence, Cloud Computing, DevOps, and automation** to build a production-oriented incident management system.
+
+**Focus Areas:**
+
+`AI` `Cloud` `DevOps` `Root Cause Analysis` `Automation` `Docker` `Kubernetes` `AWS`
+
+---
+
+## 🛒 E-Commerce Recommendation System
+
+> **Machine Learning-based product recommendation system.**
+
+A content-based recommendation system that analyzes product information and generates relevant recommendations using machine-learning techniques.
+
+**Technology Focus:**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `TF-IDF` `Cosine Similarity`
+
+---
+
+## 📋 Priority-Based To-Do List
+
+> **A productivity-focused task management web application.**
+
+A responsive task-management application with priority-based organization, filtering, local storage, and recently removed task recovery.
+
+**Technology Focus:**
+
+`HTML` `CSS` `JavaScript` `GSAP` `LocalStorage`
+
+---
+
+## 🌐 MERN Stack Applications
+
+> **Full-stack applications built using modern JavaScript technologies.**
+
+Projects involving frontend development, backend APIs, authentication, databases, and modern application architecture.
+
+**Technology Focus:**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `JWT`
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=varuunn15&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
     alt="Varun's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=varuunn15&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=varuunn15&theme=tokyonight&hide_border=true"
+    width="55%"
     alt="GitHub Streak"
   />
 </p>
 
+---
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+# 🐍 Contribution Activity
+
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=varuunn15&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
 ---
 
-## 🏆 Achievements
+<!-- ===================== ACHIEVEMENTS ===================== -->
 
-- 🚀 Core Member @ Rocket Club: Ignition
-- 💡 Active Hackathon Participant
-- 📚 Continuous Learner in Full-Stack Development & AI
-- 🎯 Building projects that solve real-world problems
+# 🏆 Highlights
+
+* 🚀 Core Member @ **Rocket Club: Ignition**
+* 🏆 Active **Hackathon Participant**
+* 💻 Full-Stack Development with **MERN**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* ☁️ Learning **Cloud Computing & DevOps**
+* 🧠 Continuously improving **DSA & Problem Solving**
+* 📚 Building projects focused on practical, real-world problems
 
 ---
 
-## ✨ Developer Quote
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-> "First, solve the problem. Then, write the code."
+# 🎯 Current Focus
+
+```text
+Full-Stack Development  ████████████████████░░  Building
+Artificial Intelligence ████████████████░░░░░░  Exploring
+Machine Learning        ███████████████░░░░░░░  Learning
+DSA & Problem Solving   ████████████████░░░░░░  Improving
+Cloud & DevOps          █████████████░░░░░░░░░  Learning
+System Design           ███████████░░░░░░░░░░░  Exploring
+```
 
 ---
 
-### 💖 Thanks for visiting my profile!
+<!-- ===================== CONNECT ===================== -->
 
-⭐ Feel free to explore my repositories and connect with me.
+# 🤝 Let's Connect
+
+<p align="center">
+  <i>
+    Interested in technology, software development, AI, or building something useful?
+    Feel free to connect with me.
+  </i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Varun%20Visoriya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/varuunn.15">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:VARUNVISORIYA@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br/>
+  <sub>Feel free to explore my repositories and connect with me.</sub>
+</p>
