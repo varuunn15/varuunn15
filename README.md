@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hi+there!+I'm+Varun+Visoriya+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%7C+Builder+%7C+Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="./github profile.jpg" width="220" alt="Varun Visoriya">
 </p>
