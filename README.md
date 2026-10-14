@@ -5,9 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="./github profile.jpg" width="220" alt="Varun Visoriya">
-</p>
 
 <p align="center">
   <a href="https://github.com/varuunn15">
